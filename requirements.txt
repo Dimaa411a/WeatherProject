@@ -1,0 +1,6 @@
+apache-airflow==3.0.2
+apache-airflow-providers-postgres
+SQLalchemy
+matplotlib
+pandas
+psycopg2-binary
